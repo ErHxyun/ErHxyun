@@ -6,7 +6,7 @@ I am interested in software engineering and machine learning!
 Teamwork, Full-stack engineering, Machine learning, Data analysis, Data cleaning, Object-oriented Programming👨‍💻
   
 ### Classes
-I have taken COMP110, INLS161, INLS60. I am currently taking COMP210, COMP290, MATH381, and STOR455.🎒
-
+I have taken COMP110 (Introduction to Programming), INLS161 (Tools for Information Literacy), INLS60 (Programming for Information Professionals), COMP210 (Data Structure and Analysis), COMP290 (Essential tools in Computer Science), MATH381 (Discrete Mathematics),STOR455 (Method of Data Analysis). I am currently taking COMP211 (System Fundamentals) and COMP301 (Foundations of Programming). Looking forward to diving deeper into the field of Computer Science! 🎒
+ 
 ### Tools and Programming Languages
 Java, Python, MongoDB, MySQL, HTML, CSS, JavaScript, React.js, Next.js, Node.js, Rstudio, Tableau, PyTorch🌐
